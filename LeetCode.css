@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.display-4{
+    font-family: "Montserrat", sans-serif;
+}
+.banner{
+  background:url(https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png);
+  height : 400px;
+  background-size:100%;
+  background-position:bottom;
+
+}
+.kuchbe{
+  padding-top:   100px;
+}
+.hello{
+  height: 300px;
+  margin-top: 50px;
+  text-align: center;
+}
+.display-4{
+ font-size: xxx-large;
+}
+.nav-icons:hover {
+  color: #ff4c68;
+}
+.abc{
+  font-size: large;
+}
