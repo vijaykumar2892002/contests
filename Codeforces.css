@@ -29,3 +29,10 @@ html {
 .abc{
   font-size: large;
 }
+@media (max-width: 575.98px) {.banner{
+  background:url(https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1);
+  height : 200px;
+  background-size:100%;
+  background-position:bottom;
+
+}  }
