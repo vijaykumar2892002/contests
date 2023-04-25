@@ -29,3 +29,10 @@ html {
 .abc{
   font-size: large;
 }
+@media (max-width: 575.98px) {.banner{
+  background:url(https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png);
+  height : 280px;
+  background-size:100%;
+  background-position:bottom;
+
+}  }
